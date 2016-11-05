@@ -1,0 +1,65 @@
+img
+{
+	width: 400px;
+	height: 150px;
+}
+
+#logo
+{
+	
+	margin-top: 150px;
+	margin-left: 450px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.nav-bar ul
+{
+	list-style-type: none;
+	position: fixed;
+	margin-top: -140px;
+	margin-left: 1100px;
+}
+li button
+{
+	background: blue;
+	color: white;
+	width: 80px;
+	height: 30px;
+}
+li
+{
+	display: inline;
+}
+.text-bar
+{
+	margin-left: 340px;	
+	height: 60px;
+}
+.buttons
+{
+	margin-left: 530px;
+	height: 70px;
+}
+.add-ons
+{
+	margin-left: 430px;
+}
+.footer
+{
+	height: 50px;
+	width: 1335px;
+	background: grey;
+	margin-top: 120px;
+}
+.left-footer{
+	float: left;
+	padding: 15px 0px 10px 30px;
+}
+.right-footer
+{
+	float: right;
+	padding: 15px 30px 10px 0px;
+
+}

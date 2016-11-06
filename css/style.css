@@ -19,7 +19,7 @@ a{
 	list-style-type: none;
 	position: fixed;
 	margin-top: -140px;
-	margin-left: 1100px;
+	margin-left: 1070px;
 }
 li button
 {
@@ -31,6 +31,7 @@ li button
 li
 {
 	display: inline;
+	padding-left: 15px;
 }
 .text-bar
 {
@@ -44,13 +45,13 @@ li
 }
 .add-ons
 {
-	margin-left: 430px;
+	margin-left: 370px;
 }
 .footer
 {
 	height: 50px;
 	width: 1335px;
-	background: grey;
+	background: #D3D3D3;
 	margin-top: 120px;
 }
 .left-footer{
